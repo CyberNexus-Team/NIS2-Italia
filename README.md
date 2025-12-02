@@ -11,7 +11,7 @@
 
 ## 📄 Contenuti della Repository
 
-Il documento principale (`NIS2 - Compliance, Rischio e Continuità Operativa.pdf`) e le risorse correlate coprono i seguenti ambiti tematici:
+Il documento principale [NIS2 - Compliance, Rischio e Continuità Operativa.pdf](https://github.com/CyberNexus-Team/NIS2-Italia/blob/main/NIS2%20-%20Compliance%2C%20Rischio%20e%20Continuit%C3%A0%20Operativa.pdf) e le risorse correlate coprono i seguenti ambiti tematici:
 
 ### 1. Contesto Normativo e Ambito di Applicazione
 *   **Evoluzione:** Transizione dalla NIS1 alla NIS2 e recepimento in Italia (in vigore dal 16 ottobre 2024).
