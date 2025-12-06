@@ -87,12 +87,12 @@ La NIS2 trasforma la sicurezza informatica da funzione tecnica a **responsabilit
 **Framework Nazionale (FNCSDP)**
  
 Allineamento al NIST Cybersecurity Framework v.2 con le sei funzioni:
-- **Govern** (Governare): governance della cybersicurezza
-- **Identify** (Identificare): asset, dati, sistemi e rischi
-- **Protect** (Proteggere): misure di sicurezza preventive
-- **Detect** (Rilevare): monitoraggio e detection degli incidenti
-- **Respond** (Rispondere): gestione e contenimento degli incidenti
-- **Recover** (Recuperare): ripristino delle operazioni
+- **Govern** (Governare): Stabilire strategia, aspettative e policy
+- **Identify** (Identificare): Comprendere i rischi attuali
+- **Protect** (Proteggere): Implementare le misure di salvaguardia
+- **Detect** (Rilevare): Rilevare attacchi e compromissioni
+- **Respond** (Rispondere): Agire in risposta a un incidente
+- **Recover** (Recuperare): Ripristinare le operazioni e gli asset
  
 **Misure obbligatorie di sicurezza**
  
